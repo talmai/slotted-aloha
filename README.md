@@ -1,0 +1,4 @@
+slotted-aloha
+=============
+
+SIMULATION AND COMPARISON OF PURE AND SLOTTED ALOHA
